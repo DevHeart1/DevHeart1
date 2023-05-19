@@ -1,6 +1,6 @@
-##Obasi Peace Oluchi
+<h1> Obasi Peace Oluchi</h1>
 
-👋 #Hello, 
+<h2>Hello!👋 </h2>
 
 I’m Peace Obasi, a Nigerian and a Software Engineer in the making. 🤗I'm passionate about solving problems and bringing solutions using technology.
 💞️ I’m looking forward to colaborating with you. Follow me on all my social media handles to get more about me.
