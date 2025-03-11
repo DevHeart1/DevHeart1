@@ -19,6 +19,8 @@
 
 - 👩‍💻 Certified Backend Developer
 
+-  🔭 Just finished my [**Portfolio Project**](https://github.com/thesongmartins/Re-Flect/blob/Backend/reflect-backend/reflect/)
+
 - 👯 I'm looking to collaborate on open source projects and backend application development.
 
 - 🙇‍♀️ I'm a christian and a lover of God.
