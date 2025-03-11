@@ -1,6 +1,6 @@
 <h1 align="center"> Peace, De DevHeart. 👩‍💻 </h1>
  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Peace+Obasi;Passionate+Problem+Solver;👩‍💻+++Full-Stack+Developer;Software+Engineer" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Peace+Obasi;Passionate+Problem+Solver;👩‍💻+++Backend+Developer;Software+Engineer" alt="Headline" />
 </div>
 
 <br>
@@ -17,11 +17,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 👩‍💻 Full stack developer (in the making)
-  
-- 🔭 I’m currently building a [**Portfolio Project**](https://github.com/devheart1/inhive)
-
-- 💬 Currently part of **The 100 days of ALXSE challenge**
+- 👩‍💻 Certified Backend Developer
 
 - 👯 I'm looking to collaborate on open source projects and backend application development.
 
