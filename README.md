@@ -1,86 +1,80 @@
-<h1 align="center"> Peace, De DevHeart. 👩‍💻 </h1>
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F706CF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Peace+Obasi;Passionate+Problem+Solver;👩‍💻+++Backend+Developer;Software+Engineer" alt="Headline" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=180&section=header&text=PEACE%20OBASI&fontSize=70&fontColor=00FFFF&animation=fadeIn&fontAlignY=40&desc=BACKEND%20ARCHITECT%20%7C%20SYSTEMS%20ENGINEER&descAlignY=65&descAlign=50" alt="Cyberpunk Header" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F706CF&center=true&vCenter=true&width=600&lines=%3E+System.init(User%3D%22DevHeart1%22);%3E+Loading+Backend+Modules...;%3E+Executing+AI+Integration...;%3E+Status%3A+Building+Scalable+Solutions." alt="Terminal Typing" />
+  </a>
 </div>
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devheart1&label=Profile%20views&color=8A2BE2&style=flat" alt="devheart1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_devheart" target="blank"><img src="https://img.shields.io/twitter/follow/_devheart?logo=twitter&style=for-the-badge" alt="devheart" /></a> </p>
-
-<h3 align="left">About Me</h3>
-
-- 👩‍💻 **Certified Backend Developer** with a passion for building robust, scalable systems.
-
-- 🔭 I’m currently building enterprise-grade applications like [**JobRaker**](https://jobraker-six.vercel.app/) and [**Fluencer**](https://app.fluencer.video/).
-
-- 👯 I'm looking to collaborate on open source projects and backend application development.
-
-- 🙇‍♀️ I'm a christian and a lover of God.
-
-- 📫 My Email: **obasipeace412@yahoo.com**
-
-<h3 align="left">Featured Projects</h3>
-
-- [**JobRaker**](https://jobraker-six.vercel.app/): An autonomous job application platform using AI to search and apply for jobs 24/7. Built with **TypeScript**, **React**, and **Supabase**.
-
-- [**Fluencer**](https://app.fluencer.video/): An AI-powered video creation platform transforming text into dynamic videos. Built with **Django**, **Python**, and **Stripe**.
-
-- **Dytor**: A lightweight cross-platform desktop timer for events and church services. Features JWT licensing and device binding. Built with **Electron** and **Node.js**.
-
-- [**Re-Flect**](https://github.com/thesongmartins/Re-Flect/blob/Backend/reflect-backend/reflect/): An all-in-one journaling platform designed to foster mindfulness. Built with **TypeScript**.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_devheart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devheart" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/peace-obasi-~-c-s-s-6460bb279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peace-obasi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/poshvisuals_99/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poshvisuals_99" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <img loading="lazy" height="40" width="40" title="Python" src="https://cdn.simpleicons.org/python/3776AB" alt="Python icon" />
-  <img loading="lazy" height="40" width="40" title="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript icon" />
-  <img loading="lazy" height="40" width="40" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript icon" />
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" title="C" height="40"/> </a>
-  <img loading="lazy" height="40" width="40" title="SQL" src="https://cdn.simpleicons.org/postgresql/316192" alt="PostgreSQL icon" />
-  <img loading="lazy" height="40" width="40" title="Bash" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Shell icon" />
-  <img loading="lazy" height="40" width="40" title="Html" src="https://cdn.simpleicons.org/html5/E34F26" alt="html5 icon" />
-  <img loading="lazy" height="40" width="40" title="CSS" src="https://cdn.simpleicons.org/css3/1572B6" alt="css3 icon" />
-</p>
-
-<h3 align="left">Backend & Tools:</h3>
-<p align="left">
-  <img loading="lazy" height="40" width="40" title="Django" src="https://cdn.simpleicons.org/django/092E20" alt="Django icon" />
-  <img loading="lazy" height="40" width="40" title="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI icon" />
-  <img loading="lazy" height="40" width="40" title="NestJS" src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS icon" />
-  <img loading="lazy" height="40" width="40" title="Supabase" src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase icon" />
-  <img loading="lazy" height="40" width="40" title="Docker" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker icon" />
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" title="git" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
-  <img loading="lazy" height="40" width="40" title="Nginx" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx icon" />
-  <img loading="lazy" height="40" width="40" title="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL icon" />
-</p>
+<div align="center">
+  <a href="https://twitter.com/_devheart" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/peace-obasi-~-c-s-s-6460bb279" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" />
+  </a>
+  <a href="mailto:obasipeace412@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" />
+  </a>
+</div>
 
 <br>
 
-<h3 align=left>My GitHub Stats</h3>
- <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devheart1&theme=radical" alt="devheart1" />
-</p>
+## 📟 `> USER_BIO.log`
 
-<p align="left">
-   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devheart1&layout=compact&langs_count=8&theme=radical" alt="devheart" />
-</p>
+```yaml
+User: Peace Obasi
+Role: Certified Backend Developer
+Mission: Architecting robust, enterprise-grade systems.
+Current_Focus: AI Integration & Autonomous Agents
+Personal_Core: "Christian & Lover of God"
+Status: Open for Collaboration
+```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devheart1&theme=radical&show_icons=true&count_private=true&hide_title=true)
+<br>
 
-## Stargazers
+## 🚀 `> MISSION_LOGS (Featured Projects)`
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=devheart1&repo=devheart1&theme=radical)](https://github.com/devheart1/devheart1/stargazers)
+| Project | System Description | Tech Modules |
+| :--- | :--- | :--- |
+| <a href="https://jobraker-six.vercel.app/">**JobRaker**</a><br>`[DEPLOYED]` | **Autonomous Agent Platform.**<br>Leverages AI to automate job hunting 24/7. High-scale data processing & real-time analytics. | ![TS](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| <a href="https://app.fluencer.video/">**Fluencer**</a><br>`[DEPLOYED]` | **AI Video Synthesis Engine.**<br>Transforms text into dynamic video content. Features voice cloning & multi-language support. | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) |
+| **Dytor**<br>`[DESKTOP]` | **Event Synchronization Tool.**<br>Cross-platform timer with secure JWT licensing & device binding. | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| <a href="https://github.com/thesongmartins/Re-Flect/blob/Backend/reflect-backend/reflect/">**Re-Flect**</a><br>`[BACKEND]` | **Mindfulness Database.**<br>Secure journaling platform fostering personal growth and reflection. | ![TS](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Fullstack](https://img.shields.io/badge/Fullstack-000000?style=flat-square) |
 
-Click [here](https://github.com/devheart1/devheart1) to give me a star ⭐ if you like 😁
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devheart1&theme=radical&height=250&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph">
+## 🛠 `> SYSTEM_MODULES (Tech Stack)`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,ts,js,nodejs,express,nestjs,c,postgres,mysql,supabase,docker,git,nginx,linux,bash&theme=dark&perline=9" alt="Tech Stack" />
+</div>
+
+<br>
+
+## 📊 `> PERFORMANCE_METRICS`
+
+<div align="center">
+  <a href="https://github.com/readme-jokes/readme-jokes">
+    <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" width="60%"/>
+  </a>
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=devheart1&show_icons=true&count_private=true&theme=radical&hide_title=true&bg_color=0d1117&hide_border=true" alt="Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devheart1&theme=radical&bg_color=0d1117&hide_border=true" alt="Streak" height="150" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devheart1&theme=radical&height=300&custom_title=CONTRIBUTION%20HEATMAP&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=80&section=footer&text=END_OF_LINE&fontSize=30&fontColor=505050&animation=fadeIn" width="100%"/>
+</div>
