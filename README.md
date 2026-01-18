@@ -1,11 +1,11 @@
 <h1 align="center"> Peace, De DevHeart. 👩‍💻 </h1>
  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Peace+Obasi;Passionate+Problem+Solver;👩‍💻+++Backend+Developer;Software+Engineer" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F706CF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Peace+Obasi;Passionate+Problem+Solver;👩‍💻+++Backend+Developer;Software+Engineer" alt="Headline" />
 </div>
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devheart1&label=Profile%20views&color=0e75b6&style=flat" alt="devheart1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devheart1&label=Profile%20views&color=8A2BE2&style=flat" alt="devheart1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_devheart" target="blank"><img src="https://img.shields.io/twitter/follow/_devheart?logo=twitter&style=for-the-badge" alt="devheart" /></a> </p>
 
@@ -68,19 +68,19 @@
 
 <h3 align=left>My GitHub Stats</h3>
  <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devheart1&theme=algolia" alt="devheart1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devheart1&theme=radical" alt="devheart1" />
 </p>
 
 <p align="left">
-   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devheart1&layout=compact&langs_count=8&theme=algolia" alt="devheart" />
+   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devheart1&layout=compact&langs_count=8&theme=radical" alt="devheart" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devheart1&theme=algolia&show_icons=true&count_private=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devheart1&theme=radical&show_icons=true&count_private=true&hide_title=true)
 
 ## Stargazers
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=devheart1&repo=devheart1&theme=algolia)](https://github.com/devheart1/devheart1/stargazers)
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=devheart1&repo=devheart1&theme=radical)](https://github.com/devheart1/devheart1/stargazers)
 
 Click [here](https://github.com/devheart1/devheart1) to give me a star ⭐ if you like 😁
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devheart1&theme=high-contrast&height=250&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devheart1&theme=radical&height=250&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph">
