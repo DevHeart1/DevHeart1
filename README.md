@@ -1,82 +1,97 @@
-<h1 align="center"> Peace, De DevHeart. 👩‍💻 </h1>
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Peace+Obasi;Passionate+Problem+Solver;👩‍💻+++Backend+Developer;Software+Engineer" alt="Headline" />
+<div align="center">
+  <h1 align="center">Peace Obasi</h1>
+  <h3 align="center">Software Engineer (Backend Developer)</h3>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Passionate+Problem+Solver;Backend+Specialist;Building+Scalable+Systems;Christian+%26+Lover+of+God" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <a href="https://twitter.com/_devheart" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://www.linkedin.com/in/peace-obasi-~-c-s-s-6460bb279" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:obasipeace412@yahoo.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
-<br>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devheart1&label=Profile%20views&color=0e75b6&style=flat" alt="devheart1" /> </p>
+## 👩‍💻 About Me
 
-<p align="left"> <a href="https://twitter.com/_devheart" target="blank"><img src="https://img.shields.io/twitter/follow/_devheart?logo=twitter&style=for-the-badge" alt="devheart" /></a> </p>
+I am a **Certified Backend Developer** with a strong passion for building robust, scalable, and efficient software solutions. My expertise lies in architecting complex backend systems, API development, and integrating AI-driven features into modern applications. I thrive in solving challenging problems and am constantly learning new technologies to deliver high-quality software.
 
-<!-- <br>
-<div align="right">
-  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
-</div>
-<br> -->
+- 🔭 I’m currently working on building enterprise-grade applications like **JobRaker** and **Fluencer**.
+- 👯 I’m looking to collaborate on open source projects and backend application development.
+- ⚡ **Fun fact:** I am a Christian and a lover of God.
 
-<h3 align="left">About Me</h3>
+---
 
-- 👩‍💻 Certified Backend Developer
+## 🚀 Featured Projects
 
--  🔭 Just finished my [**Portfolio Project**](https://github.com/thesongmartins/Re-Flect/blob/Backend/reflect-backend/reflect/)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| <a href="https://jobraker-six.vercel.app/">**JobRaker**</a> | **Autonomous Job Application Platform.**<br>An enterprise-grade platform that automates the job search process using advanced AI. Features include auto-applying to jobs, real-time analytics, and smart filtering. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square) |
+| <a href="https://app.fluencer.video/">**Fluencer**</a> | **AI-Powered Video Creation Platform.**<br>A sophisticated tool transforming text into dynamic AI-generated videos. Supports multi-language content, voice cloning, and credit-based subscriptions. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white) |
+| **Dytor** | **Desktop Event Timer.**<br>A lightweight cross-platform desktop timer for events and church services. Features JWT-based licensing, device binding, and subscription management. | ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) |
+| <a href="https://github.com/thesongmartins/Re-Flect/blob/Backend/reflect-backend/reflect/">**Re-Flect**</a> | **Journaling Platform.**<br>An all-in-one journaling app designed to foster mindfulness and personal growth. Encourages users to reflect on their day through guided prompts. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Fullstack](https://img.shields.io/badge/-Fullstack-000000?style=flat-square) |
 
-- 👯 I'm looking to collaborate on open source projects and backend application development.
+---
 
-- 🙇‍♀️ I'm a christian and a lover of God.
+## 🛠 Technical Skills
 
-- 📫 My Email: **obasipeace412@yahoo.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_devheart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devheart" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/peace-obasi-~-c-s-s-6460bb279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peace-obasi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/poshvisuals_99/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poshvisuals_99" height="30" width="40" /></a>
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" title="C" height="40"/>
-  <img loading="lazy" height="40" width="40" title="Python" src="https://cdn.simpleicons.org/python/3776AB" alt="Python icon" />
-  <img loading="lazy" height="40" width="40" title="Bash" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Shell icon" />
-  <img loading="lazy" height="40" width="40" title="Html" src="https://cdn.simpleicons.org/html5/E34F26" alt="html5 icon" />
-  <img loading="lazy" height="40" width="40" title="CSS" src="https://cdn.simpleicons.org/css3/1572B6" alt="css3 icon" />
-  <img loading="lazy" height="40" width="40" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript icon" />
+### Backend Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" title="git" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" title="slack" height="40"/> </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" title="vagrant" height="40"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" title="github" height="40"/> </a>
-  <img loading="lazy" height="40" width="40" title="Vim" src="https://cdn.simpleicons.org/vim/019733" alt="Vim icon" />
-  <img loading="lazy" height="40" width="40" title="Trello" src="https://cdn.simpleicons.org/trello/0079BF" alt="Trello icon" />
-  <img loading="lazy" height="40" width="40" title="Ubuntu" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu icon" />
-  <img loading="lazy" height="40" width="40" title="Nginx" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx icon" />
-  <img loading="lazy" height="40" width="40" title="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL icon" />
- <img loading="lazy" height="40" width="40" title="Puppet" src="https://cdn.simpleicons.org/puppet/FFAE1A" alt="Puppet icon" /> 
+### Tools & Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-<br>
+---
 
-<h3 align=left>My GitHub Stats</h3>
- <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devheart1&theme=algolia" alt="devheart1" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devheart1&show_icons=true&count_private=true&theme=algolia&hide_title=true&bg_color=00000000" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devheart1&theme=algolia&bg_color=00000000" alt="Streak" />
 </p>
 
-<p align="left">
-   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devheart1&layout=compact&langs_count=8&theme=algolia" alt="devheart" />
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devheart1&layout=compact&langs_count=8&theme=algolia&bg_color=00000000" alt="Top Langs" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devheart1&theme=algolia&show_icons=true&count_private=true&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devheart1&theme=high-contrast&height=250&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
+</p>
 
-## Stargazers
-
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=devheart1&repo=devheart1&theme=algolia)](https://github.com/devheart1/devheart1/stargazers)
-
-Click [here](https://github.com/devheart1/devheart1) to give me a star ⭐ if you like 😁
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devheart1&theme=high-contrast&height=250&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph">
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devheart1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
