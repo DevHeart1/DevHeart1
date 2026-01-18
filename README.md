@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0a0e17,001f33,003366,004d99&height=180&section=header&text=PEACE%20OBASI&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=40&desc=BACKEND%20ARCHITECT%20%7C%20SYSTEMS%20ENGINEER&descAlignY=65&descAlign=50" alt="Cyberpunk Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12071a,2a0f3a,3d1a5c&height=180&section=header&text=PEACE%20OBASI&fontSize=70&fontColor=C778DD&animation=fadeIn&fontAlignY=40&desc=BACKEND%20ARCHITECT%20%7C%20SYSTEMS%20ENGINEER&descAlignY=65&descAlign=50" alt="Cyberpunk Header" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%3E+System.init(User%3D%22DevHeart1%22);%3E+Loading+Backend+Modules...;%3E+Executing+AI+Integration...;%3E+Status%3A+Building+Scalable+Solutions." alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=%3E+System.init(User%3D%22DevHeart1%22);%3E+Loading+Backend+Modules...;%3E+Executing+AI+Integration...;%3E+Status%3A+Building+Scalable+Solutions." alt="Terminal Typing" />
   </a>
 </div>
 
@@ -12,13 +12,13 @@
 
 <div align="center">
   <a href="https://twitter.com/_devheart" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-003366?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0e17" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-2a0f3a?style=for-the-badge&logo=twitter&logoColor=white&labelColor=12071a" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/peace-obasi-~-c-s-s-6460bb279" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-004d99?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e17" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-3d1a5c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=12071a" alt="LinkedIn" />
   </a>
   <a href="mailto:obasipeace412@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-003366?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-2a0f3a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12071a" alt="Email" />
   </a>
 </div>
 
@@ -60,21 +60,21 @@ Status: Open for Collaboration
 
 <div align="center">
   <a href="https://github.com/readme-jokes/readme-jokes">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="60%"/>
+    <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" width="60%"/>
   </a>
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=devheart1&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&bg_color=0a0e17&hide_border=true" alt="Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devheart1&theme=tokyonight&bg_color=0a0e17&hide_border=true" alt="Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devheart1&show_icons=true&count_private=true&theme=dracula&hide_title=true&bg_color=12071a&hide_border=true" alt="Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devheart1&theme=dracula&bg_color=12071a&hide_border=true" alt="Streak" height="150" />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devheart1&theme=tokyonight&height=300&custom_title=CONTRIBUTION%20HEATMAP&hide_border=true&bg_color=0a0e17" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devheart1&theme=dracula&height=300&custom_title=CONTRIBUTION%20HEATMAP&hide_border=true&bg_color=12071a" alt="Activity Graph" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0a0e17,001f33,003366,004d99&height=80&section=footer&text=END_OF_LINE&fontSize=30&fontColor=70F0FF&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12071a,2a0f3a,3d1a5c&height=80&section=footer&text=END_OF_LINE&fontSize=30&fontColor=D7A8FF&animation=fadeIn" width="100%"/>
 </div>
