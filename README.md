@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=PEACE+OBASI;BACKEND+ARCHITECT+%7C+SYSTEMS+ENGINEER" alt="Typing Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,000f5c,001f80,0029bb&height=180&section=header&text=PEACE%20OBASI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=BACKEND%20ARCHITECT%20%7C%20SYSTEMS%20ENGINEER&descAlignY=65&descAlign=50" alt="Cyberpunk Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -76,5 +76,5 @@ Status: Open for Collaboration
 <br>
 
 <div align="center">
-  <h2 style="color: #00F5FF;"> > END_OF_LINE </h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,000f5c,001f80,0029bb&height=80&section=footer&text=END_OF_LINE&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </div>
